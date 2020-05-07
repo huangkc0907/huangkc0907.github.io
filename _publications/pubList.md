@@ -35,4 +35,4 @@ redirect_from:
 
 * J. Lai, **K. Huang** and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 576-582. ([_Best Paper Finalist Award._](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
 
-*	Z. Cui, **K. Huang**, B. Lu, and H. K. Chu, “Three-Dimensional Localization of Needle Tip Immersed in Medium”, 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Hong Kong, China, 2019, pp. 507-512. [@paper](https://ieeexplore.ieee.org/document/8868776)
+* Z. Cui, **K. Huang**, B. Lu, and H. K. Chu, “Three-Dimensional Localization of Needle Tip Immersed in Medium”, 2019 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Hong Kong, China, 2019, pp. 507-512. [@paper](https://ieeexplore.ieee.org/document/8868776)
