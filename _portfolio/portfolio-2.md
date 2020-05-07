@@ -1,6 +1,6 @@
 ---
 title: "Yeast Cell Cluster Patterning on Different Substrate"
-excerpt: Short description of portfolio 2 <br/><img src="/images/cell_pattern.jpg">
+excerpt: Short description of portfolio <br/><img src="/images/cell_pattern.jpg" width="512" height="288">
 collection: portfolio
 ---
 
