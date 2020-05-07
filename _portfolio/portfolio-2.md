@@ -8,4 +8,4 @@ Biological cell cluster patterning is conducted through the system. Different ce
 
 1. **K. Huang**, B. Lu, J. Lai, and H. K. Chu, “Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis”, in IEEE Transactions on Biomedical Circuits and Systems (TbioCAS), vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](/files/tbiocas_2019.pdf)
 
-2. **K. Huang**, H. K. Chu, B. Lu, L. Cheng, “Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis”, 2018 IEEE Conference on Robotics and Biomimetics (ROBIO), Kuala Lumpur, Malaysia, 2018, pp. 1521-1526. (/files/robio_2018.pdf)
+2. **K. Huang**, H. K. Chu, B. Lu, L. Cheng, “Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis”, 2018 IEEE Conference on Robotics and Biomimetics (ROBIO), Kuala Lumpur, Malaysia, 2018, pp. 1521-1526. [@paper](/files/robio_2018.pdf)
