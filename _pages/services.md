@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Academic Services"
-permalink: /academic-services/
+title: "Services"
+permalink: /services/
 author_profile: true
 redirect_from:
-  - /academic-services
+  - /services
 ---
 
 ## Reviewer
