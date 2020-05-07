@@ -1,6 +1,7 @@
 ---
 title: "Single-particle Micropatterning"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/single_particle.jpg' width = "573" height = "435">"
+excerpt: "Short description of portfolio item number 1<br/><img src="/images/single_particle.jpg" height = "435" width = "573">"
+
 collection: portfolio
 --- 
 
