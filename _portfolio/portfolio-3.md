@@ -1,6 +1,6 @@
 ---
 title: "Large-scale Cell Cluster Patterning with the Proposed System"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/large_cell_pattern.png'>"
+excerpt: Short description of portfolio 3 <br/><img src="/images/large_cell_pattern.png" width="768" height="193.3">
 collection: portfolio
 ---
 
