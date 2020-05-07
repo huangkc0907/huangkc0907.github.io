@@ -25,11 +25,11 @@ redirect_from:
 
 ## Peer-review Conference Proceedings 
 
-* **K. Huang**, Z. Cui, I. A. Ajamieh, J. Lai, J. K. Mills, and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis”, 2020 IEEE International Conference on Automation Scienceand Engineering (CASE), Hong Kong, China, 2020. (_Under Review_) [@video](https://youtu.be/EQhd-nqbMF0) [@video1](/files/Embryo_manipulation.mp4)
+* **K. Huang**, Z. Cui, I. A. Ajamieh, J. Lai, J. K. Mills, and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis”, 2020 IEEE International Conference on Automation Scienceand Engineering (CASE), Hong Kong, China, 2020. (_Under Review_) [@video](https://www.iqiyi.com/v_19ryaue1l4.html)
 
 * **K. Huang**, H. K. Chu, B. Lu, J. Lai and L. Cheng, "Automated Cell Patterning System with a Microchip using Dielectrophoresis," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 634-639. [@paper](/files/icra_2019.pdf)
 
-* **K. Huang**, H. K. Chu, B. Lu, L. Cheng, “Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis”, 2018 IEEE Conference on Robotics and Biomimetics (ROBIO), Kuala Lumpur, Malaysia, 2018, pp. 1521-1526. (/files/robio_2018.pdf)
+* **K. Huang**, H. K. Chu, B. Lu, L. Cheng, “Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis”, 2018 IEEE Conference on Robotics and Biomimetics (ROBIO), Kuala Lumpur, Malaysia, 2018, pp. 1521-1526. [@paper](/files/robio_2018.pdf)
 
 * J. Lai, **K. Huang**, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2020. (_Accepted_) [@paper](/files/AIM20_Sam_watermarked.pdf) [@video](https://youtu.be/_yy3LjOx5cc) 
 
