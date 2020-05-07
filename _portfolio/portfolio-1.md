@@ -11,7 +11,7 @@ High-quality single-bead patterns are constructed through the system. Multiple r
 </p>
 
 <p class="full-width">
-<iframe width="480" height="270" src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=af3a009a18e8bdef09ef1c8099984fad&tvId=15890268900&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allowfullscreen="true"></iframe>
+<iframe width="480" height="270" src="http://open.iqiyi.com/developer/player_js/coopPlayerIndex.html?vid=af3a009a18e8bdef09ef1c8099984fad&tvId=15890268900&accessToken=2.f22860a2479ad60d8da7697274de9346&appKey=3955c3425820435e86d0f4cdfe56f5e7&appId=1368&height=100%&width=100%" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
 
 ---
