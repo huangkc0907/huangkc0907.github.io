@@ -4,7 +4,7 @@ excerpt: <p style="text-align:justify;">Biological cell cluster patterning is co
 collection: portfolio
 ---
 
-<p style="text-align:justify;">Biological cell cluster patterning is conducted through the system. Different cell cluster patterns are formed on the substrate by controlling the opening of each dot electrode on the microchip. Cell behavior is investigated under DEP force with different media, voltage inputs for generating electric fields, and voltage frequencies to enhance the performance and efficiency of nDEP patterning [2]. The adhesion between different material substrates and the cells is also characterized to form cell patterns in different substrates. With the system, we can trap and pattern cells on the surface of any substrate with design forms [1].</p>
+<p style="text-align:justify;">Biological yeast cell (8um) cluster patterning is conducted through the system. Cell behavior is investigated under DEP force with different media, voltage inputs for generating electric fields, and voltage frequencies to enhance the performance and efficiency of nDEP patterning [2]. Different cell cluster patterns are formed on the substrate by controlling the opening of each dot electrode on the microchip. By holding the cells in clusters and transferring the microchip, clean cell cluster patterns can be created. In order to form the cell pattern in different substrates, the mechanism for cells to adhere to the substrate is also examined to optimize cell attachment. With the system, we can trap and pattern cells on the surface of any substrate with design forms [1].</p>
 
 ![figure](/images/cell_pattern.jpg)
 
