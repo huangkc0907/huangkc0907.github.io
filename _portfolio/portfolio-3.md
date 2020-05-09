@@ -1,6 +1,6 @@
 ---
 title: "Large-scale Cell Cluster Patterning with the Proposed System"
-excerpt: Short description of portfolio 3 <br/><img src="/images/large_cell_pattern.png" width="768" height="193.3">
+excerpt: A large-scale yeast cell pattern is achieved using the moving platform of the microscope. The relative movement between the microchip and the substrate on the platform aids in constructing cell cluster patterns anywhere in the substrate. <br/><img src="/images/large_cell_pattern.png" width="768" height="193.3">
 collection: portfolio
 ---
 
