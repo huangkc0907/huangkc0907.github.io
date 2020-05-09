@@ -1,6 +1,6 @@
 ---
 title: "Yeast Cell Cluster Patterning on Different Substrate"
-excerpt: Short description of portfolio 2 <br/><img src="/images/cell_pattern.jpg" width="768" height="373.6">
+excerpt: Biological cell cluster patterning is conducted through the system. Different cell cluster patterns are formed on the substrate by controlling the opening of each dot electrode on the microchip. <br/><img src="/images/cell_pattern.jpg" width="768" height="373.6">
 collection: portfolio
 ---
 
