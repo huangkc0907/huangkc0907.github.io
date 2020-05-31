@@ -25,7 +25,7 @@ redirect_from:
 
 ## Peer-review Conference Proceedings 
 
-* **K. Huang**, Z. Cui, I. A. Ajamieh, J. Lai, J. K. Mills, and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis”, 2020 IEEE International Conference on Automation Scienceand Engineering (CASE), Hong Kong, China, 2020. (_Accepted_) [@video](https://www.iqiyi.com/v_19ryaue1l4.html)
+* **K. Huang**, Z. Cui, I. A. Ajamieh, J. Lai, J. K. Mills, and H. K. Chu, “Automated Single-Particle Micropatterning System using Dielectrophoresis”, 2020 IEEE International Conference on Automation Science and Engineering (CASE), Hong Kong, China, 2020. (_Accepted_) [@video](https://www.iqiyi.com/v_19ryaue1l4.html)
 
 * **K. Huang**, H. K. Chu, B. Lu, J. Lai and L. Cheng, "Automated Cell Patterning System with a Microchip using Dielectrophoresis," 2019 International Conference on Robotics and Automation (ICRA), Montreal, QC, Canada, 2019, pp. 634-639. [@paper](/files/icra_2019.pdf)
 
