@@ -1,0 +1,15 @@
+*{margin:0px;padding:0px}
+li{list-style:none}
+a{text-decoration:none}
+img{border:0px}
+.banner{width:350px;height:495px;margin:100px auto;position:relative;overflow:hidden}
+.banner .pic{width:9999px;height:495px}
+.banner .pic li{width:350px;height:495px;float:left}
+.banner .anniu{width:100px;height:16px;position:absolute;left:165px;top:470px}
+.banner .anniu li{width:16px;height:16px;background:white;float:left;margin:2px;display:inline;
+cursor:pointer;border-radius:100%}
+.banner .anniu li.on{background:red}
+.banner .lr{width:350px;height:50px;position:absolute;top:250px;display:none}
+.banner .lr a{color:white}
+.banner .lr .pre{width:20px;height:50px;float:left;background:none repeat scroll 0px 0px rgba(1, 0, 0, 0.6);text-align:center;line-height:50px;cursor:pointer}
+.banner .lr .next{width:20px;height:50px;float:right;background:none repeat scroll 0px 0px rgba(1, 0, 0, 0.6);text-align:center;line-height:50px;cursor:pointer}
