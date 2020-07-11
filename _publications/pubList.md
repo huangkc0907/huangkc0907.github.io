@@ -33,6 +33,8 @@ redirect_from:
 
 * **K. Huang**, H. K. Chu, B. Lu, L. Cheng, “Characterization of a Microchip Device for Cell Patterning via Negative Dielectrophoresis”, 2018 IEEE Conference on Robotics and Biomimetics (ROBIO), Kuala Lumpur, Malaysia, 2018, pp. 1521-1526. [@paper](/files/robio_2018.pdf)
 
+* Z. Cui, **K. Huang**, B. Lu and H. K. Chu, "Automated Folding of a Deformable Thin Object through Robot Manipulators," 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Las Vegas, NV, USA, 2020. (_Accepted_)
+
 * J. Lai, **K. Huang**, B. Lu and H. K. Chu, "Toward Vision-based Adaptive Configuring of A Bidirectional Two-Segment Soft Continuum Manipulator," 2020 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), Boston, MA, USA, 2020. (_Accepted_) [@paper](/files/AIM20_Sam_watermarked.pdf) [@video](https://youtu.be/_yy3LjOx5cc) 
 
 * J. Lai, **K. Huang** and H. K. Chu, "A Learning-based Inverse Kinematics Solver for a Multi-Segment Continuum Robot in Robot-Independent Mapping," 2019 IEEE International Conference on Robotics and Biomimetics (ROBIO), Dali, China, 2019, pp. 576-582. ([_Best Paper Finalist Award._](https://www.polyu.edu.hk/me/me-phd-student-awarded-best-paper-finalist-in-robio-2019/)) [@paper](https://ieeexplore.ieee.org/document/8961669)
