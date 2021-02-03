@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Kaicheng Huang is a Ph.D. candidate at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+Kaicheng Huang is currently a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi] (https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+
+He optained his Ph.D. degree at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region about the development of an automatic system for cell manipulation and patterning.
 
 During his Ph.D., he did a research internship at the Mechanical and Industrial Engineering Department, The University of Toronto (UoT), under the supervision of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
 
@@ -16,13 +18,11 @@ Prior to the PhD study, he got his master's degree of mechanical and automation 
 
 Kaicheng majored in automation and obtained his bachelor's degree with Second class honors from the Mechatronic and Control Engineering Department, Shenzhen University, in 2014.
 
-Currently he is working on the development of an automatic system for cell manipulation and patterning.
-
 ---
 
 Education
 ======
-+ **PhD in Mechanical Engineering**, late 2020 (expected).
++ **PhD in Mechanical Engineering**, 2020.
 _Dept. of Mechanical Engineering._
 _The Hong Kong Polytechnic University._
 Hong Kong, China.
@@ -39,9 +39,9 @@ Shenzhen, China.
 
 Contact
 ======
-kaicheng.huang@connect.polyu.hk
+huangkc0907@hotmail.com
 
-CF306, ME, PolyU, Hung Hom, KLN, HKSAR
+Room 824, Haking Wong Building, The University of Hong Kong, Pokfulam, Hong Kong, China
 
 (+852) 6734 2716
 
