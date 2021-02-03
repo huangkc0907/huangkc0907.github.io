@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-Kaicheng Huang is a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+Kaicheng Huang is a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served as a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
 
-He optained his Ph.D. degree at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region about the development of an automatic system for cell manipulation and patterning.
+He obtained his Ph.D. degree at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region about the development of an automatic system for cell manipulation and patterning.
 
 During his Ph.D., he did a research internship at the Mechanical and Industrial Engineering Department, The University of Toronto (UoT), under the supervision of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
 
-Prior to the PhD study, he got his master's degree of mechanical and automation engineering in The Chinese University of Hong Kong (CUHK) in 2017. He did his master project under the supervision of [Prof. Jie Huang](http://www.mae.cuhk.edu.hk/people/list.php?name=jhuang), the Choh-Ming Li Professor of MAE department.
+Prior to the Ph.D. study, he got his master's degree in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2015. He did his master project under the supervision of [Prof. Jie Huang](http://www.mae.cuhk.edu.hk/people/list.php?name=jhuang), the Choh-Ming Li Professor of MAE department.
 
 Kaicheng majored in automation and obtained his bachelor's degree with Second class honors from the Mechatronic and Control Engineering Department, Shenzhen University, in 2014.
 
