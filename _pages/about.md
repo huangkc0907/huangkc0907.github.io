@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Kaicheng Huang is currently a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi] (https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+Kaicheng Huang is a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi] (https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
 
 He optained his Ph.D. degree at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region about the development of an automatic system for cell manipulation and patterning.
 
