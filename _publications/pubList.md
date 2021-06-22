@@ -13,7 +13,7 @@ redirect_from:
 
 * **K. Huang**, Z. Cui, J. Lai, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers”, in IEEE Transactions on Automation Science and Engineering (T-ASE), 2021. (_Accepted_)(10.1109/TASE.2021.3062064)
 
-* **K. Huang**, I. A. Ajamieh, Z. Cui, J. Lai, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in IEEE Transactions on Biomedical Engineering (TBME), 2020. (_Accepted_)(10.1109/TBME.2020.3031043)
+* **K. Huang**, I. A. Ajamieh, Z. Cui, J. Lai, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in IEEE Transactions on Biomedical Engineering (TBME), vol. 68, no. 7, pp. 2152-2163, Jul. 2021.
 
 * **K. Huang**, B. Lu, J. Lai, and H. K. Chu, “Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis”, in IEEE Transactions on Biomedical Circuits and Systems (TbioCAS), vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](/files/tbiocas_2019.pdf)
 
