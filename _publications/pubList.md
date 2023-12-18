@@ -16,7 +16,9 @@ redirect_from:
 * **K. Huang**, I. A. Ajamieh, Z. Cui, J. Lai, J. K. Mills and H. K. Chu, “Automated Embryo Manipulation and Rotation via Robotic nDEP-tweezers”, in IEEE Transactions on Biomedical Engineering (TBME), vol. 68, no. 7, pp. 2152-2163, Jul. 2021.
 
 * **K. Huang**, B. Lu, J. Lai, and H. K. Chu, “Microchip System for Patterning Cells on Different Substrates via Negative Dielectrophoresis”, in IEEE Transactions on Biomedical Circuits and Systems (TbioCAS), vol. 13, no. 5, pp. 1063-1074, Oct. 2019. [@paper](/files/tbiocas_2019.pdf)
-  
+
+* Q. Zhao, J. Lai, **K. Huang**, X. Hu, and H. K. Chu, “Shape estimation and control of a soft continuum robot under external payloads”, in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 27, no. 5, pp. 2511-2522, Oct. 2022.
+
 * J. Lai, **K. Huang**, B. Lu, Q. Zhao, and H. K. Chu, “Verticalized-tip trajectory tracking of a 3d-printable soft continuum robot: Enabling surgical blood suction automation”, in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 27, no. 3, pp. 1545-1556, Jun. 2021.
 
 * B. Lu, H. K. Chu, **K. C. Huang** and J. Lai, "Surgical Suture Thread Detection and 3-D Reconstruction Using a Model-Free Approach in a Calibrated Stereo Visual System," in IEEE/ASME Transactions on Mechatronics (T-MECH), vol. 25, no. 2, pp. 792-803, Apr. 2020. [@paper](https://ieeexplore.ieee.org/document/8845606)
