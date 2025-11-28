@@ -1,5 +1,5 @@
 ---
-layout: archive
+layout: single
 title: "Publications"
 permalink: /publications/
 author_profile: true
@@ -7,9 +7,11 @@ redirect_from:
   - /tpublications
 ---
 
+You can also find my articles on [Google Scholar](https://scholar.google.com) and [ResearchGate](https://www.researchgate.net/scientific-contributions/2154941535_Kaicheng_Huang).
 
+---
 
-## Peer-review Journals
+## Peer-reviewed Journals
 
 * **K. Huang**, Z. Cui, J. Lai, B. Lu and H. K. Chu, “Optimization of A Single-particle Micropatterning System with Robotic nDEP-Tweezers”, in IEEE Transactions on Automation Science and Engineering (T-ASE), vol. 19, no. 2, pp. 818-832, Apr. 2022. [@paper](/files/tase_2022.pdf)
 
@@ -29,7 +31,7 @@ redirect_from:
 
 ---
 
-## Peer-review Conference Proceedings 
+## Peer-reviewed Conference Proceedings 
 
 * **K. Huang**, Z. Cui, I. A. Ajamieh, J. Lai, J. K. Mills, and H. K. Chu, “Automated Single-microparticle Patterning System for Micro-analytics”, 2020 IEEE International Conference on Automation Science and Engineering (CASE), Hong Kong, China, 2020, pp. 390-396. [@paper](/files/case_2020.pdf) [@video](https://www.iqiyi.com/v_19ryaue1l4.html)
 

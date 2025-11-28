@@ -1,52 +1,75 @@
 ---
 permalink: /
-title: "About"
-excerpt: "About me"
+title: "Kaicheng Huang"
+excerpt: "Research Assistant Professor, Materials Science and Engineering, Southern University of Science and Technology"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
+layout: splash
+header:
+  overlay_color: "#5e616c"
+  overlay_filter: "0.2"
 ---
 
-Kaicheng Huang is a Postdoctoral fellow at the Industrial and Manufacturing Systems Engineering Department, The University of Hong Kong (HKU), supervised by [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi). Currently he is working on the development of AFM. Kaicheng has served as a reviewer for ICRA 2020, AIM 2020, ICRA 2019, ROBIO 2019, ICRA 2018.
+## About
 
-He obtained his Ph.D. degree at the Mechanical Engineering Department, The Hong Kong Polytechnic University (PolyU), supervised by [Dr. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/). He is involved in a project supported in part by the Research Grant Council of the Hong Kong Special Administrative Region about the development of an automatic system for cell manipulation and patterning.
+Kaicheng Huang currently holds the position of Research Assistant Professor in the Department of Materials Science and Engineering at the Southern University of Science and Technology (SUSTech), where he is affiliated with the research group led by [Prof. Xing Cheng](https://faculty.sustech.edu.cn/?tagid=chengx&iscss=1&snapid=1&orderby=date&go=2). His research interests encompass automated micromanipulation, cellular manipulation and impedance characterization, droplet manipulation and impedance measurement, digital microfluidic devices, dynamic control algorithms, optimization algorithms, and optoelectronic tweezers.
 
-During his Ph.D., he did a research internship at the Mechanical and Industrial Engineering Department, The University of Toronto (UoT), under the supervision of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
+Dr. Huang previously served as a Senior Researcher and Postdoctoral Fellow within the same group at SUSTech. Prior to joining SUSTech, he was a Postdoctoral Fellow in the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong (HKU), under the supervision of [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi).
 
-Prior to the Ph.D. study, he got his master's degree in mechanical and automation engineering from The Chinese University of Hong Kong (CUHK) in 2015. He did his master project under the supervision of [Prof. Jie Huang](http://www.mae.cuhk.edu.hk/people/list.php?name=jhuang), the Choh-Ming Li Professor of MAE department.
+He earned his Ph.D. in Mechanical Engineering from The Hong Kong Polytechnic University (PolyU), where his doctoral research—supervised by [Prof. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/)—focused on the development of an automated system for cell manipulation and patterning, a project partially supported by the Research Grants Council of the Hong Kong Special Administrative Region. During his doctoral studies, he also undertook a research internship at the Department of Mechanical and Industrial Engineering, University of Toronto (UoT), under the mentorship of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
 
-Kaicheng majored in automation and obtained his bachelor's degree with Second class honors from the Mechatronic and Control Engineering Department, Shenzhen University, in 2014.
-
----
-
-Education
-======
-+ **PhD in Mechanical Engineering**, 2020.
-_Dept. of Mechanical Engineering._
-_The Hong Kong Polytechnic University._
-Hong Kong, China.
-+ **MSc in Mechanical and Automation Engineering**, 2015.
-_Dept. of Mechanical and Automation Engineering._
-_The Chinese University of Hong Kong._
-Hong Kong, China.
-+ **BEng in Automation**, 2014.
-_Dept. of Mechtronic and Control Engineering._
-_Shenzhen University._
-Shenzhen, China.
+Dr. Huang obtained his M.Sc. in Mechanical and Automation Engineering from The Chinese University of Hong Kong (CUHK) in 2015, where he worked with [Prof. Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/), the Choh-Ming Li Professor in the Department of Mechanical and Automation Engineering. He received his B.Eng. in Automation from the Department of Mechatronic and Control Engineering at Shenzhen University in 2014.
 
 ---
 
-Contact
-======
-huangkc0907@hotmail.com
+## Research
 
-Room 824, Haking Wong Building, The University of Hong Kong, Pokfulam, Hong Kong, China
+Dr. Huang's research focuses on the development of electric-based automated micro-manipulation and detection systems and their applications in biomedical engineering. His work integrates robotics, control systems, and microfluidics to address challenges in precision manipulation and detection at the microscale. Overally, Dr. Huang's resarch can be divided into three main direction: manipulation, detection and application. According to the operation object, it can be catagorized into two parts: cell operation and droplet operation.
 
-(+852) 6734 2716
+<div style="text-align: center; margin: 2em 0;">
+  <img src="{{ site.baseurl }}/images/research_content1.png" alt="Research Overview" style="max-width: 50%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
 
-<!-- <body> <small><script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=080808&w=220&t=n&d=pWPP3H6tu6piSitaO1ly8AJ_73sTJ9bEIzk5Pzekk6o&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353"></script></small></body> -->
+---
 
+## Quick facts
+
+- **Position**: Research Assistant Professor, MSE, Southern University of Science and Technology (SUSTech)
+- **Research areas**: Automated micromanipulation, Cellular manipulation and impedance characterization, Droplet manipulation and impedance measurement, Digital microfluidic devices, Dynamic control algorithms, Optimization algorithms, Optoelectronic tweezers
+- **Location**: Shenzhen, Guangdong, China
+- **Email**: huangkc0907@hotmail.com
+
+---
+
+## Education
+
+- **Ph.D. in Mechanical Engineering**, 2020  
+  _Department of Mechanical Engineering, The Hong Kong Polytechnic University_  
+  Hong Kong, China
+- **M.Sc. in Mechanical and Automation Engineering**, 2015  
+  _Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong_  
+  Hong Kong, China
+- **B.Eng. in Automation**, 2014  
+  _Department of Mechatronic and Control Engineering, Shenzhen University_  
+  Shenzhen, China
+
+---
+
+## Selected sections
+
+- **Publications** – see the full list on the [Publications]({{ "/publications/" | relative_url }}) page.
+- **Talks** – invited talks and conference presentations on the [Talks]({{ "/talks/" | relative_url }}) page.
+- **Teaching** – courses and teaching activities on the [Teaching]({{ "/teaching/" | relative_url }}) page.
+
+---
+
+## Contact
+
+**Email**: huangkc0907@hotmail.com  
+**Address**: Room 306, Block 1, Huiyuan, Southern University of Science and Technology, 1088 Xueyuan Avenue, Shenzhen 518055, P.R. China  
+**Phone**: (+86) 15818662698
 
 ---
 
