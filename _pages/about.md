@@ -14,6 +14,10 @@ header:
 
 ## About
 
+<p style="float: right; margin: 0 0 1.5em 2em; max-width: 220px; width: 40%;">
+  <img src="{{ site.baseurl }}/images/me.jpg" alt="Kaicheng Huang" style="width: 100%; height: auto; border-radius: 50%; box-shadow: 0 6px 16px rgba(0,0,0,0.15);">
+</p>
+
 Kaicheng Huang currently holds the position of Research Assistant Professor in the Department of Materials Science and Engineering at the Southern University of Science and Technology (SUSTech), where he is affiliated with the research group led by [Prof. Xing Cheng](https://faculty.sustech.edu.cn/?tagid=chengx&iscss=1&snapid=1&orderby=date&go=2). His research interests encompass automated micromanipulation, cellular manipulation and impedance characterization, droplet manipulation and impedance measurement, digital microfluidic devices, dynamic control algorithms, optimization algorithms, and optoelectronic tweezers.
 
 Dr. Huang previously served as a Senior Researcher and Postdoctoral Fellow within the same group at SUSTech. Prior to joining SUSTech, he was a Postdoctoral Fellow in the Department of Industrial and Manufacturing Systems Engineering at The University of Hong Kong (HKU), under the supervision of [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi).
@@ -34,15 +38,6 @@ Dr. Huang's research focuses on the development of electric-based automated micr
 
 ---
 
-## Quick facts
-
-- **Position**: Research Assistant Professor, MSE, Southern University of Science and Technology (SUSTech)
-- **Research areas**: Automated micromanipulation, Cellular manipulation and impedance characterization, Droplet manipulation and impedance measurement, Digital microfluidic devices, Dynamic control algorithms, Optimization algorithms, Optoelectronic tweezers
-- **Location**: Shenzhen, Guangdong, China
-- **Email**: huangkc0907@hotmail.com
-
----
-
 ## Education
 
 - **Ph.D. in Mechanical Engineering**, 2020  
@@ -54,14 +49,6 @@ Dr. Huang's research focuses on the development of electric-based automated micr
 - **B.Eng. in Automation**, 2014  
   _Department of Mechatronic and Control Engineering, Shenzhen University_  
   Shenzhen, China
-
----
-
-## Selected sections
-
-- **Publications** – see the full list on the [Publications]({{ "/publications/" | relative_url }}) page.
-- **Talks** – invited talks and conference presentations on the [Talks]({{ "/talks/" | relative_url }}) page.
-- **Teaching** – courses and teaching activities on the [Teaching]({{ "/teaching/" | relative_url }}) page.
 
 ---
 
