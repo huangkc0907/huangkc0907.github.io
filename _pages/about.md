@@ -2,33 +2,67 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Research Assistant Professor, Department of Materials Science and Engineering, Southern University of Science and Technology (SUSTech)
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: me.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Room 306, Block 1, Huiyuan</p>
+    <p>Southern University of Science and Technology</p>
+    <p>1088 Xueyuan Avenue, Shenzhen 518055, P.R. China</p>
+    <p>Email: huangkc0907@hotmail.com</p>
+    <p>Phone: (+86) 15818662698</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
-  enabled: true # includes a list of news items
+  enabled: false # includes a list of news items
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+## About
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Kaicheng Huang currently holds the position of **Research Assistant Professor** in the Department of Materials Science and Engineering at the **Southern University of Science and Technology (SUSTech)**, where he is affiliated with the research group led by [Prof. Xing Cheng](https://faculty.sustech.edu.cn/?tagid=chengx&iscss=1&snapid=1&orderby=date&go=2).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+His research interests encompass **automated micromanipulation**, **cellular manipulation and impedance characterization**, **droplet manipulation and impedance measurement**, **digital microfluidic devices**, **dynamic control algorithms**, **optimization algorithms**, and **optoelectronic tweezers**.
+
+Dr. Huang previously served as a Senior Researcher and Postdoctoral Fellow within the same group at SUSTech. Prior to joining SUSTech, he was a Postdoctoral Fellow in the Department of Industrial and Manufacturing Systems Engineering at **The University of Hong Kong (HKU)**, under the supervision of [Prof. Ning Xi](https://www.imse.hku.hk/people/n-xi).
+
+He earned his **Ph.D. in Mechanical Engineering** from **The Hong Kong Polytechnic University (PolyU)**, where his doctoral research—supervised by [Prof. Henry K. Chu](https://www.polyu.edu.hk/me/people/academic-teaching-staff/chu-kar-hang-henry-dr/)—focused on the development of an automated system for cell manipulation and patterning. During his doctoral studies, he also undertook a research internship at the Department of Mechanical and Industrial Engineering, **University of Toronto (UoT)**, under the mentorship of [Prof. James K. Mills](https://www.mie.utoronto.ca/faculty_staff/mills/).
+
+Dr. Huang obtained his **M.Sc. in Mechanical and Automation Engineering** from **The Chinese University of Hong Kong (CUHK)** in 2015, where he worked with [Prof. Jie Huang](https://www4.mae.cuhk.edu.hk/peoples/huang-jie/). He received his **B.Eng. in Automation** from the Department of Mechatronic and Control Engineering at **Shenzhen University** in 2014.
+
+---
+
+## Research
+
+Dr. Huang's research focuses on the development of **electric-based automated micro-manipulation and detection systems** and their applications in biomedical engineering. His work integrates robotics, control systems, and microfluidics to address challenges in precision manipulation and detection at the microscale.
+
+Overall, Dr. Huang's research can be divided into three main directions: **manipulation**, **detection**, and **application**. According to the operation object, it can be categorized into two parts: **cell operation** and **droplet operation**.
+
+<div style="text-align: center; margin: 2em 0;">
+  <img src="/assets/img/research_content1.png" alt="Research Overview" style="max-width: 60%; height: auto; border-radius: 8px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+</div>
+
+---
+
+## Education
+
+- **Ph.D. in Mechanical Engineering**, 2020  
+  _Department of Mechanical Engineering, The Hong Kong Polytechnic University_  
+  Hong Kong, China
+- **M.Sc. in Mechanical and Automation Engineering**, 2015  
+  _Department of Mechanical and Automation Engineering, The Chinese University of Hong Kong_  
+  Hong Kong, China
+- **B.Eng. in Automation**, 2014  
+  _Department of Mechatronic and Control Engineering, Shenzhen University_  
+  Shenzhen, China
