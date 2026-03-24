@@ -1400,3 +1400,4 @@ GitHub restricts the default `GITHUB_TOKEN` from triggering other workflows when
 
 3. **Workflow usage**
    The workflow `.github/workflows/update-citations.yml` uses this PAT to commit updates to `_data/citations.yml`.
+
