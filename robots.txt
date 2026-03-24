@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://huangkc0907.github.io/sitemap.xml
