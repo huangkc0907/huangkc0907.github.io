@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-04-06'
+  last_updated: '2026-04-13'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 0
@@ -38,7 +38,7 @@ papers:
     title: 'Verticalized-tip trajectory tracking of a 3D-printable soft continuum robot: Enabling surgical blood suction automation'
     year: '2021'
   yXbpUxEAAAAJ:UeHWp8X0CEIC:
-    citations: 26
+    citations: 27
     title: A learning approach for suture thread detection with feature enhancement and segmentation for 3-D shape reconstruction
     year: '2019'
   yXbpUxEAAAAJ:UebtZRa9Y70C:
@@ -70,7 +70,7 @@ papers:
     title: A learning-based inverse kinematics solver for a multi-segment continuum robot in robot-independent mapping
     year: '2019'
   yXbpUxEAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 0
     title: Automated exo-glycosidase-based glycan sequencing on a digital microfluidic system with integrated electrochemical detection of monosaccharides
     year: '2025'
   yXbpUxEAAAAJ:qjMakFHDy7sC:
