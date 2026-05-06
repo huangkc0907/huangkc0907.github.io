@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-01'
+  last_updated: '2026-05-06'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 1
@@ -34,7 +34,7 @@ papers:
     title: Gesture-based steering framework for redundant soft robots
     year: '2024'
   yXbpUxEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 67
+    citations: 66
     title: 'Verticalized-tip trajectory tracking of a 3D-printable soft continuum robot: Enabling surgical blood suction automation'
     year: '2021'
   yXbpUxEAAAAJ:UeHWp8X0CEIC:
@@ -46,7 +46,7 @@ papers:
     title: Large-scale selective micropatterning with robotics nDEP tweezers and hydrogel encapsulation
     year: '2024'
   yXbpUxEAAAAJ:W7OEmFMy1HYC:
-    citations: 65
+    citations: 66
     title: Shape estimation and control of a soft continuum robot under external payloads
     year: '2021'
   yXbpUxEAAAAJ:WF5omc3nYNoC:
@@ -66,11 +66,11 @@ papers:
     title: Automated folding of a deformable thin object through robot manipulators
     year: '2020'
   yXbpUxEAAAAJ:eQOLeE2rZwMC:
-    citations: 25
+    citations: 26
     title: A learning-based inverse kinematics solver for a multi-segment continuum robot in robot-independent mapping
     year: '2019'
   yXbpUxEAAAAJ:hqOjcs7Dif8C:
-    citations: 0
+    citations: 1
     title: Automated exo-glycosidase-based glycan sequencing on a digital microfluidic system with integrated electrochemical detection of monosaccharides
     year: '2025'
   yXbpUxEAAAAJ:qjMakFHDy7sC:
