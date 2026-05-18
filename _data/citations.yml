@@ -1,8 +1,8 @@
 metadata:
-  last_updated: '2026-05-06'
+  last_updated: '2026-05-18'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
-    citations: 1
+    citations: 2
     title: A high-precision nanoliter droplet dispensing system based on optoelectrowetting with tunable droplet volume
     year: '2025'
   yXbpUxEAAAAJ:2osOgNQ5qMEC:
@@ -10,7 +10,7 @@ papers:
     title: Automated cell patterning system with a microchip using dielectrophoresis
     year: '2019'
   yXbpUxEAAAAJ:5nxA0vEk-isC:
-    citations: 12
+    citations: 13
     title: A portable breath acetone analyzer using a low-power and high-selectivity MEMS gas sensor based on Pd/In2O3-decorated SnO2 nanocomposites
     year: '2025'
   yXbpUxEAAAAJ:8k81kl-MbHgC:
