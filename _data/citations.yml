@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-18'
+  last_updated: '2026-05-20'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -34,7 +34,7 @@ papers:
     title: Gesture-based steering framework for redundant soft robots
     year: '2024'
   yXbpUxEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 66
+    citations: 67
     title: 'Verticalized-tip trajectory tracking of a 3D-printable soft continuum robot: Enabling surgical blood suction automation'
     year: '2021'
   yXbpUxEAAAAJ:UeHWp8X0CEIC:
