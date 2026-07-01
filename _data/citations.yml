@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-20'
+  last_updated: '2026-07-01'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 2
@@ -10,7 +10,7 @@ papers:
     title: Automated cell patterning system with a microchip using dielectrophoresis
     year: '2019'
   yXbpUxEAAAAJ:5nxA0vEk-isC:
-    citations: 13
+    citations: 16
     title: A portable breath acetone analyzer using a low-power and high-selectivity MEMS gas sensor based on Pd/In2O3-decorated SnO2 nanocomposites
     year: '2025'
   yXbpUxEAAAAJ:8k81kl-MbHgC:
@@ -27,14 +27,14 @@ papers:
     year: '2020'
   yXbpUxEAAAAJ:MXK_kJrjxJIC:
     citations: 0
-    title: A High-accuracy Single-cell Impedance Measurement System for Electrical Impedance Spectroscopy with Movable Electrical Tweezers
+    title: A High-Accuracy Single-Cell Impedance Measurement System for Electrical Impedance Spectroscopy With Movable Electrical Tweezers
     year: '2026'
   yXbpUxEAAAAJ:Se3iqnhoufwC:
     citations: 7
     title: Gesture-based steering framework for redundant soft robots
     year: '2024'
   yXbpUxEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 67
+    citations: 70
     title: 'Verticalized-tip trajectory tracking of a 3D-printable soft continuum robot: Enabling surgical blood suction automation'
     year: '2021'
   yXbpUxEAAAAJ:UeHWp8X0CEIC:
@@ -46,7 +46,7 @@ papers:
     title: Large-scale selective micropatterning with robotics nDEP tweezers and hydrogel encapsulation
     year: '2024'
   yXbpUxEAAAAJ:W7OEmFMy1HYC:
-    citations: 66
+    citations: 70
     title: Shape estimation and control of a soft continuum robot under external payloads
     year: '2021'
   yXbpUxEAAAAJ:WF5omc3nYNoC:
@@ -54,7 +54,7 @@ papers:
     title: Microchip system for patterning cells on different substrates via negative dielectrophoresis
     year: '2019'
   yXbpUxEAAAAJ:Y0pCki6q_DkC:
-    citations: 16
+    citations: 17
     title: Automated embryo manipulation and rotation via robotic nDEP-tweezers
     year: '2020'
   yXbpUxEAAAAJ:YsMSGLbcyi4C:
