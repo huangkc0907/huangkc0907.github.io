@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-27'
+  last_updated: '2026-08-03'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -34,11 +34,11 @@ papers:
     title: Gesture-based steering framework for redundant soft robots
     year: '2024'
   yXbpUxEAAAAJ:Tyk-4Ss8FVUC:
-    citations: 70
+    citations: 71
     title: 'Verticalized-tip trajectory tracking of a 3D-printable soft continuum robot: Enabling surgical blood suction automation'
     year: '2021'
   yXbpUxEAAAAJ:UeHWp8X0CEIC:
-    citations: 27
+    citations: 28
     title: A learning approach for suture thread detection with feature enhancement and segmentation for 3-D shape reconstruction
     year: '2019'
   yXbpUxEAAAAJ:UebtZRa9Y70C:
@@ -46,11 +46,11 @@ papers:
     title: Large-scale selective micropatterning with robotics nDEP tweezers and hydrogel encapsulation
     year: '2024'
   yXbpUxEAAAAJ:W7OEmFMy1HYC:
-    citations: 71
+    citations: 73
     title: Shape estimation and control of a soft continuum robot under external payloads
     year: '2021'
   yXbpUxEAAAAJ:WF5omc3nYNoC:
-    citations: 17
+    citations: 16
     title: Microchip system for patterning cells on different substrates via negative dielectrophoresis
     year: '2019'
   yXbpUxEAAAAJ:Y0pCki6q_DkC:
@@ -58,7 +58,7 @@ papers:
     title: Automated embryo manipulation and rotation via robotic nDEP-tweezers
     year: '2020'
   yXbpUxEAAAAJ:YsMSGLbcyi4C:
-    citations: 25
+    citations: 26
     title: Surgical suture thread detection and 3-D reconstruction using a model-free approach in a calibrated stereo visual system
     year: '2019'
   yXbpUxEAAAAJ:d1gkVwhDpl0C:
