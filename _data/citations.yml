@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-12'
+  last_updated: '2026-08-19'
 papers:
   yXbpUxEAAAAJ:0EnyYjriUFMC:
     citations: 3
@@ -10,7 +10,7 @@ papers:
     title: Automated cell patterning system with a microchip using dielectrophoresis
     year: '2019'
   yXbpUxEAAAAJ:5nxA0vEk-isC:
-    citations: 17
+    citations: 18
     title: A portable breath acetone analyzer using a low-power and high-selectivity MEMS gas sensor based on Pd/In2O3-decorated SnO2 nanocomposites
     year: '2025'
   yXbpUxEAAAAJ:8k81kl-MbHgC:
@@ -30,7 +30,7 @@ papers:
     title: A High-Accuracy Single-Cell Impedance Measurement System for Electrical Impedance Spectroscopy With Movable Electrical Tweezers
     year: '2026'
   yXbpUxEAAAAJ:Se3iqnhoufwC:
-    citations: 7
+    citations: 8
     title: Gesture-based steering framework for redundant soft robots
     year: '2024'
   yXbpUxEAAAAJ:Tyk-4Ss8FVUC:
@@ -46,7 +46,7 @@ papers:
     title: Large-scale selective micropatterning with robotics nDEP tweezers and hydrogel encapsulation
     year: '2024'
   yXbpUxEAAAAJ:W7OEmFMy1HYC:
-    citations: 73
+    citations: 74
     title: Shape estimation and control of a soft continuum robot under external payloads
     year: '2021'
   yXbpUxEAAAAJ:WF5omc3nYNoC:
@@ -70,7 +70,7 @@ papers:
     title: A learning-based inverse kinematics solver for a multi-segment continuum robot in robot-independent mapping
     year: '2019'
   yXbpUxEAAAAJ:hqOjcs7Dif8C:
-    citations: 1
+    citations: 2
     title: Automated exo-glycosidase-based glycan sequencing on a digital microfluidic system with integrated electrochemical detection of monosaccharides
     year: '2025'
   yXbpUxEAAAAJ:qjMakFHDy7sC:
